@@ -9,7 +9,6 @@ import java.io.Serializable;
 
 @Data
 @Builder
-@NoArgsConstructor
 @AllArgsConstructor
 public class URL implements Serializable {
      private static final String ROOT = "C:\\Users\\BolshevikNanven\\Desktop\\scau大创\\";
